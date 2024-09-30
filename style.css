@@ -1,2 +1,13 @@
-body {background-color: gold;
+body {
+    background-color: gold;
+    text-align: center;
+}
+p{
+    color:rgb(218, 26, 12);
+}
+h1{
+    font-style: serifada;
+}
+.calopsita {
+    font-size: 30%;
 }

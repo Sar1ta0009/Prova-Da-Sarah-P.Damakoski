@@ -1,13 +1,16 @@
 body {
-    background-color: gold;
-    text-align: center;
+    background-color:lightblue;
+    text-align: ariel;
 }
 p{
-    color:rgb(218, 26, 12);
+    color:mediumslateblue
 }
 h1{
     font-style: serifada;
 }
 .calopsita {
-    font-size: 30%;
+    font-size: 40%;
+}
+.img1{
+    width:35%
 }

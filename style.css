@@ -2,17 +2,27 @@ body {
     background-color:lightblue;
     text-align: center;
 }
+    nav a {
+        margin-top: 5px;
+        padding: 2px;
+        font-size: 20px;
+        color:rgba(204, 168, 238, 0.192);
+        display: flex;
+        justify-content: center;
+    }
+}
 p{
     color:mediumslateblue
 }
 h1{
     font-style: serifada;
+    padding-top: 5%;
 }
 .calopsita {
     font-size: 40%;
 }
 .img1{
-    width:35%
+    width:50%
 }
 .centro {
     text-align: center;
